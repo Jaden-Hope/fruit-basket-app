@@ -2,9 +2,5 @@ language: node_js
 node_js:
   - 12
 
-branches:
-  only:
-  - gh-pages
-
 services:
   - postgresql
